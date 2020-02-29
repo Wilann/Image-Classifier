@@ -1,5 +1,7 @@
 .idea
 .ipynb_checkpoints
-venv
+
+venv/
+
 checkpoint.pth
 workspace-utils.py
