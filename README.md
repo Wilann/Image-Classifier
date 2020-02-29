@@ -8,7 +8,7 @@ Project 2 from Udacity's [Intro to Machine Learning Nanodegree](https://www.udac
 
 ### Description
 
-Developed code for an image classifier built with PyTorch, then converted it into a command line application.
+Developed an image classifier with PyTorch, then converted it into a command line application.
 
 - Loaded training data, validation data, testing data, label mappings, and applied transformations (random scaling, cropping, resizing, flipping) to training data
 - Normalized means and standard deviations of all image color channels, shuffled data and specified batch sizes
