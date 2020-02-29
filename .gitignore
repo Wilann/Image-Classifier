@@ -4,3 +4,6 @@ venv/
 
 checkpoint.pth
 workspace-utils.py
+
+Part 1 - Image Classifier Instructions.png
+Part 2 - Train and Predict Instructions.png
