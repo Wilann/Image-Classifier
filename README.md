@@ -25,3 +25,7 @@ This project requires **Python 3.x** and the following Python libraries installe
 You will also need to have software installed to run and execute an [iPython Notebook](https://jupyter.org)
 
 It's recommended to install [Anaconda](https://www.anaconda.com), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
+
+### Instructions
+<img src="Part 1 - Image Classifier Instructions.png" style="width: 100%; height: auto;"/>
+<img src="Part 2 - Train and Predict Instructions.png" style="width: 100%; height: auto;"/>
