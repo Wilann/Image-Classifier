@@ -1,2 +1,1 @@
-*.html linguist-language=Jupyter Notebook
-*.py linguist-language=Jupyter Notebook
+*.* linguist-language=Jupyter Notebook
