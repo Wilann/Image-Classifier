@@ -1,1 +1,4 @@
-*.* linguist-language=Jupyter Notebook
+*.ipynb linguist-detectable=true
+*.python linguist-detectable=false
+*.html linguist-detectable=false
+*.json linguist-detectable=false
